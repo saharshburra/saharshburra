@@ -3,14 +3,14 @@
 Final-year Computer Science undergrad at IIT Gandhinagar (CGPA 9.0).
 
 ## 🔧 Currently
-Interested in AI/ML, Software Development and low-level/compiler infrastructure.
+Interested in AI/ML, Software Development and Systems Domains.
 
 ## 💼 Experience
 
 **Interim Engineering Intern — Qualcomm (Hyderabad), Summer 2026**
 
 Worked on ELD (Embedded Linker), Qualcomm's open-source linker
-- Shipped 7 open + 4 merged PRs, including TLS relaxation support (GD→LE, LD→LE, IE→LE) and x86_64 GOT/PLT stub optimization
+- Raised 11 (7 open + 4 merged) PRs, including TLS relaxation support (GD→LE, LD→LE, IE→LE) and x86_64 GOT/PLT stub optimization
 - [PRs](https://github.com/qualcomm/eld/pulls/bsaharsh) · [Issues](https://github.com/qualcomm/eld/issues/bsaharsh)
 
 ## 🛠️ Tech Stack
@@ -18,6 +18,7 @@ C++ · C · C# · Python · LLVM · Linux · Git · CMake · Ninja · Docker · 
 
 ## 📫 Reach me
 [Email](saharshburra@gmail.com) · [LinkedIn](https://www.linkedin.com/in/saharshburra/)
+<p align="center"><img src = "https://komarev.com/ghpvc/?username=saharshburra&style=for-the-badge&abbreviated=true" /></p>
 
 
 <!--
