@@ -18,7 +18,7 @@ C++ · C · C# · Python · LLVM · Linux · Git · CMake · Ninja · Docker · 
 
 ## 📫 Reach me
 [Email](saharshburra@gmail.com) · [LinkedIn](https://www.linkedin.com/in/saharshburra/)
-<p align="center"><img src = "https://komarev.com/ghpvc/?username=saharshburra&style=for-the-badge&abbreviated=true" /></p>
+
 
 
 <!--
